@@ -1,4 +1,4 @@
----
+q---
 title: Publishing packages
 description: Learn how to publish packages to JSR.
 ---
